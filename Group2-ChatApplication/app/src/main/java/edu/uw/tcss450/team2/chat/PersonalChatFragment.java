@@ -11,7 +11,9 @@ import android.view.ViewGroup;
 import edu.uw.tcss450.team2.R;
 
 /**
- *
+ * A simple {@link Fragment} subclass.
+ * Use the {@link PersonalChatFragment#newInstance} factory method to
+ * create an instance of this fragment.
  */
 public class PersonalChatFragment extends Fragment {
 
